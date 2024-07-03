@@ -8,11 +8,11 @@ This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgac
 
 ## Session Leader(s)
 
-[Swati Sinha] (https://www.ebi.ac.uk/people/person/swati-sinha/)
+[Swati Sinha](https://www.ebi.ac.uk/people/person/swati-sinha/)
 Senior Bioinformatician
 EMBL-EBI
 
-[Jose Maria Gonzalez Perez-Silva] (https://www.ebi.ac.uk/people/person/jose-maria-gonzalez-perez-silva/)  
+[Jose Maria Gonzalez Perez-Silva](https://www.ebi.ac.uk/people/person/jose-maria-gonzalez-perez-silva/)  
 Bioinformatician  
 EMBL-EBI
 
