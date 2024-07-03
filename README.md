@@ -16,6 +16,10 @@ EMBL-EBI
 Bioinformatician  
 EMBL-EBI
 
+[Vianey Paola Barrera Enriquez](https://www.ebi.ac.uk/people/person/vianey-barrera/)
+Bioinformatician
+EMBL-EBI
+
 ## Description
 
 ### Part 1: General concepts
