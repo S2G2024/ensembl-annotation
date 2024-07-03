@@ -8,17 +8,17 @@ This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgac
 
 ## Session Leader(s)
 
-Leanne Haggerty  
-Ensembl Genome Annotation Project Leader  
+[Swati Sinha] (https://www.ebi.ac.uk/people/person/swati-sinha/)
+Senior Bioinformatician
 EMBL-EBI
 
-Jose Maria Gonzalez Perez-Silva  
+[Jose Maria Gonzalez Perez-Silva] (https://www.ebi.ac.uk/people/person/jose-maria-gonzalez-perez-silva/)  
 Bioinformatician  
 EMBL-EBI
 
 ## Description
 
-### Part 1: General concepts + Case study
+### Part 1: General concepts
 
 By the end of this part you will have:
 
