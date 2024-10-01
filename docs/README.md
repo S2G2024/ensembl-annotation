@@ -1,6 +1,6 @@
 # Annotating genomes the Ensembl way
 
-This session is part of [**Biodiversity Genomics Academy 2024**]([https://BGA23.org](https://thebgacademy.org/BGA24/sessions/ensembl-annotation-24))
+This session is part of [**Biodiversity Genomics Academy 2024**]([https://thebgacademy.org](https://thebgacademy.org/BGA24/sessions/ensembl-annotation-24))
 
 ## Session Leader(s)
 
