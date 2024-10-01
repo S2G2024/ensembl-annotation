@@ -10,7 +10,7 @@ tasks:
     source ${HOME}/.bashrc
     mamba create -n annotation -c bioconda star scallop salmon samtools -y
 
-    gzip -dr /workspace/bga24-ensembl-annotation/Annotating_the_genome/Fastq/*
+    gzip -dr /workspace/ensembl-annotation/Annotating_the_genome/Fastq/*
 
   command: |
     /workspace/conda/bin/mamba init bash
