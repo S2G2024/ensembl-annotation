@@ -124,7 +124,7 @@ BAM files are often quite large and are unsuitable for uploading to a website, s
 For convenience we have already set up an ftp site that contains all the files you just created.
 
 To view the ftp, enter the following URL into your web browser:
- [https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga23/results/](https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga23/results/)
+ [https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga24/results/](https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga24/results/)
  
 We have chosen ENSDARG00000055381 as a good example of a chr12 gene with differential expression highlighted by the 6hpf and 2cell lanes.
 
@@ -138,9 +138,9 @@ To load the alignments from the Bam files:
 * To load the BAM files click on “Personal data” tab at the top.
 * Name the track (if you have an Ensembl account you can store the track in your account to use another time).
 * Add the data using the URL of the files:
-  [https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga23/results/BAM/2cellAligned.sortedByCoord.out.bam](https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga23/results/BAM/2cellAligned.sortedByCoord.out.bam)
+  [https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga24/results/BAM/2cellAligned.sortedByCoord.out.bam](https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga24/results/BAM/2cellAligned.sortedByCoord.out.bam)
 * Then do the same for the 6hpf file
-  [https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga23/results/BAM/6hpfAligned.sortedByCoord.out.bam](https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga23/results/BAM/6hpfAligned.sortedByCoord.out.bam)
+  [https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga24/results/BAM/6hpfAligned.sortedByCoord.out.bam](https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga24/results/BAM/6hpfAligned.sortedByCoord.out.bam)
 * Click on the tick in the top right hand corner of the "Configure this page" window to return to the region view browser.
 * Once you have attached the remote files you should be able to see them in the region view browser, if they do not show up you may need to turn them on by going to "Configure this page" -> "Your data" and set it to “Normal”.
 
@@ -154,9 +154,9 @@ To load the transcript models from the GTF files:
 * To load the GTF files click on “Personal data” tab at the top.
 * Name the track (if you have an Ensembl account you can store the track in your account to use another time).
 * Add the data using the URL of the files:
-  [https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga23/results/GTF/2cell_scallop.gtf](https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga23/results/GTF/2cell_scallop.gtf)
+  [https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga24/results/GTF/2cell_scallop.gtf](https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga24/results/GTF/2cell_scallop.gtf)
 * Then do the same for the 6hpf file
-  [https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga23/results/GTF/6hpf_scallop.gtf](https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga23/results/GTF/6hpf_scallop.gtf)
+  [https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga24/results/GTF/6hpf_scallop.gtf](https://ftp.ebi.ac.uk/pub/databases/ensembl/ereboperezsilva/bga24/results/GTF/6hpf_scallop.gtf)
 * Click on the tick in the top right hand corner of the "Configure this page" window to return to the region view browser.
 * Once you have attached the remote files you should be able to see them in the region view browser, if they do not show up you may need to turn them on by going to "Configure this page" -> "Your data" and set it to “Normal”.
 
