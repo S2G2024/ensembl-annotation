@@ -2,23 +2,13 @@
 
 #BGA24/sessions #GitPod #Annotation
 
-This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademy.org)
+This session is part of [**S2G2024**]
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/ensembl-annotation) 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/S2G2024/ensembl-annotation) 
 
 ## Session Leader(s)
 
-[Swati Sinha](https://www.ebi.ac.uk/people/person/swati-sinha/)
-Senior Bioinformatician
-EMBL-EBI
-
-[Jose Maria Gonzalez Perez-Silva](https://www.ebi.ac.uk/people/person/jose-maria-gonzalez-perez-silva/)  
-Bioinformatician  
-EMBL-EBI
-
-[Vianey Paola Barrera Enriquez](https://www.ebi.ac.uk/people/person/vianey-barrera/)
-Bioinformatician
-EMBL-EBI
+Michael Paulini
 
 ## Description
 
